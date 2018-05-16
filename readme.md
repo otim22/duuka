@@ -5,7 +5,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-[![CircleCI](https://circleci.com/gh/otim22/duuka.svg?style=svg)](https://circleci.com/gh/otim22/duuka)</p>
 
 # Duuka 
 This a simple Point of sale system to keep track of sales of a business.
@@ -73,7 +72,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [README.md](https://github.com/otim22/duuka/readme.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [README.md](https://github.com/otim22/duuka/blob/master/readme.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
